@@ -31,5 +31,4 @@ This DApp is perfect for DeFi protocols looking to boost user engagement and tok
 - 📊 **User Dashboard**: View staked amount, reward earned, and withdrawable balance
 - 🧮 **Compound or Simple Rewards**: Configurable logic based on your use case
 
-## 📁 Folder Structure
 
